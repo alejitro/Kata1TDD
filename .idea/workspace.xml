@@ -10,7 +10,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a4a7117b-c58c-4576-8e6a-f96089bc8262" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Calculadora.py" beforeDir="false" afterPath="$PROJECT_DIR$/Calculadora.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CalculadoraTest.py" beforeDir="false" afterPath="$PROJECT_DIR$/CalculadoraTest.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -66,12 +66,14 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="36" />
+          <entry key="py" value="74" />
+          <entry key="txt" value="138" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Python" value="36" />
+          <entry key="PLAIN_TEXT" value="138" />
+          <entry key="Python" value="74" />
         </counts>
       </usages-collector>
     </session>
@@ -82,7 +84,7 @@
         <entry file="file://$PROJECT_DIR$/Calculadora.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="119">
-              <caret line="7" column="20" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
+              <caret line="7" column="30" selection-start-line="7" selection-start-column="30" selection-end-line="7" selection-end-column="30" />
             </state>
           </provider>
         </entry>
@@ -90,8 +92,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/CalculadoraTest.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="25" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
+            <state relative-caret-position="272">
+              <caret line="16" column="57" selection-start-line="16" selection-start-column="57" selection-end-line="16" selection-end-column="57" />
               <folding>
                 <element signature="e#0#29#0" expanded="true" />
               </folding>
@@ -307,19 +309,24 @@
       <option name="project" value="LOCAL" />
       <updated>1538268831071</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Paso 3: Se crea prueba utilizando un numero diferente (Rojo)">
+      <created>1538270603919</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1538270603919</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Paso 3: Se modifica el metodo sumar para que pase la prueba(verde)">
+      <created>1538270744451</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1538270744451</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Unittests_for_CalculadoraTest_CalculadoraTest - 2018.09.29 at 19h 52m 09s.xml">
-      <configuration name="Unittests for CalculadoraTest.CalculadoraTest" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_in_CalculadoraTest_py - 2018.09.29 at 19h 56m 55s.xml">
-      <configuration name="Unittests in CalculadoraTest.py" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_in_CalculadoraTest_py - 2018.09.29 at 19h 57m 13s.xml">
-      <configuration name="Unittests in CalculadoraTest.py" configurationId="tests" />
-    </history-entry>
     <history-entry file="Unittests_for_CalculadoraTest_CalculadoraTest_test_sumarcadena - 2018.09.29 at 20h 06m 06s.xml">
       <configuration name="Unittests for CalculadoraTest.CalculadoraTest.test_sumarcadena" configurationId="tests" />
     </history-entry>
@@ -341,6 +348,15 @@
     <history-entry file="Unittests_for_CalculadoraTest_CalculadoraTest - 2018.09.29 at 20h 19m 59s.xml">
       <configuration name="Unittests for CalculadoraTest.CalculadoraTest" configurationId="tests" />
     </history-entry>
+    <history-entry file="Unittests_in_CalculadoraTest_py - 2018.09.29 at 20h 22m 31s.xml">
+      <configuration name="Unittests in CalculadoraTest.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_CalculadoraTest_py - 2018.09.29 at 20h 24m 54s.xml">
+      <configuration name="Unittests in CalculadoraTest.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_CalculadoraTest_py - 2018.09.29 at 20h 52m 04s.xml">
+      <configuration name="Unittests in CalculadoraTest.py" configurationId="tests" />
+    </history-entry>
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -353,7 +369,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24983476" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -383,7 +398,9 @@
     <MESSAGE value="Se crea el archivo local de Calculadora" />
     <MESSAGE value="Paso 1: Se crea el test para cuando la cadena es vacia (Rojo)" />
     <MESSAGE value="Paso 1: Se corrige el metodo sumar para que pase la prueba (Verde)" />
-    <option name="LAST_COMMIT_MESSAGE" value="Paso 1: Se corrige el metodo sumar para que pase la prueba (Verde)" />
+    <MESSAGE value="Paso 3: Se crea prueba utilizando un numero diferente (Rojo)" />
+    <MESSAGE value="Paso 3: Se modifica el metodo sumar para que pase la prueba(verde)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Paso 3: Se modifica el metodo sumar para que pase la prueba(verde)" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/unittest/case.py">
@@ -397,14 +414,14 @@
     <entry file="file://$PROJECT_DIR$/Calculadora.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
-          <caret line="7" column="20" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
+          <caret line="7" column="30" selection-start-line="7" selection-start-column="30" selection-end-line="7" selection-end-column="30" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/CalculadoraTest.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="25" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
+        <state relative-caret-position="272">
+          <caret line="16" column="57" selection-start-line="16" selection-start-column="57" selection-end-line="16" selection-end-column="57" />
           <folding>
             <element signature="e#0#29#0" expanded="true" />
           </folding>
