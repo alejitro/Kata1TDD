@@ -1,5 +1,6 @@
 
 
 class Calculadora:
-    def sumar(self,cadena):
+
+    def sumar(cadena):
         pass
