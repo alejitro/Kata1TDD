@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a4a7117b-c58c-4576-8e6a-f96089bc8262" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CalculadoraTest.py" beforeDir="false" afterPath="$PROJECT_DIR$/CalculadoraTest.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Calculadora.py" beforeDir="false" afterPath="$PROJECT_DIR$/Calculadora.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -37,38 +36,38 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="498" />
+          <entry key="py" value="527" />
           <entry key="txt" value="199" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="199" />
-          <entry key="Python" value="498" />
+          <entry key="Python" value="527" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Calculadora.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" column="11" selection-start-line="3" selection-start-column="11" selection-end-line="3" selection-end-column="11" />
+            <state relative-caret-position="68">
+              <caret line="4" column="20" lean-forward="true" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="20" />
               <folding>
-                <marker date="1538269033316" expanded="true" signature="20:21" ph="..." />
-                <marker date="1538269033316" expanded="true" signature="43:48" ph="..." />
+                <marker date="1538270038439" expanded="true" signature="20:21" ph="..." />
+                <marker date="1538270038439" expanded="true" signature="66:71" ph="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/CalculadoraTest.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="153">
-              <caret line="9" column="64" selection-start-line="9" selection-start-column="64" selection-end-line="9" selection-end-column="64" />
+              <caret line="9" column="64" lean-forward="true" selection-start-line="9" selection-start-column="64" selection-end-line="9" selection-end-column="64" />
               <folding>
                 <element signature="e#0#29#0" expanded="true" />
               </folding>
@@ -97,8 +96,8 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/PruebaCalculadora.py" />
-        <option value="$PROJECT_DIR$/Calculadora.py" />
         <option value="$PROJECT_DIR$/CalculadoraTest.py" />
+        <option value="$PROJECT_DIR$/Calculadora.py" />
       </list>
     </option>
   </component>
@@ -152,7 +151,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python tests.Unittests in CalculadoraTest.py">
+  <component name="RunManager" selected="Python tests.Unittests for CalculadoraTest.CalculadoraTest.test_sumarcadena">
     <configuration name="Unittests for CalculadoraTest.CalculadoraTest" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <module name="Kata1" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -180,6 +179,21 @@
       <option name="_new_pattern" value="&quot;&quot;" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
       <option name="_new_target" value="&quot;CalculadoraTest.CalculadoraTest.test_sumar&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for CalculadoraTest.CalculadoraTest.test_sumarcadena" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="Kata1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="C:\Users\ale_v\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_pattern" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;CalculadoraTest.CalculadoraTest.test_sumarcadena&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
@@ -232,9 +246,11 @@
       <item itemvalue="Python tests.Unittests for CalculadoraTest.CalculadoraTest.test_sumar" />
       <item itemvalue="Python tests.Unittests for CalculadoraTest.CalculadoraTest" />
       <item itemvalue="Python tests.Unittests for PruebaCalculadora.PruebaCalculadora.test___sumar" />
+      <item itemvalue="Python tests.Unittests for CalculadoraTest.CalculadoraTest.test_sumarcadena" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python tests.Unittests for CalculadoraTest.CalculadoraTest.test_sumarcadena" />
         <item itemvalue="Python tests.Unittests in CalculadoraTest.py" />
         <item itemvalue="Python tests.Unittests for CalculadoraTest.CalculadoraTest" />
         <item itemvalue="Python tests.Unittests for PruebaCalculadora.PruebaCalculadora.test___sumar" />
@@ -271,9 +287,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Unittests_for_CalculadoraTest_CalculadoraTest - 2018.09.29 at 19h 38m 23s.xml">
-      <configuration name="Unittests for CalculadoraTest.CalculadoraTest" configurationId="tests" />
-    </history-entry>
     <history-entry file="Unittests_for_CalculadoraTest_CalculadoraTest - 2018.09.29 at 19h 38m 44s.xml">
       <configuration name="Unittests for CalculadoraTest.CalculadoraTest" configurationId="tests" />
     </history-entry>
@@ -301,6 +314,9 @@
     <history-entry file="Unittests_in_CalculadoraTest_py - 2018.09.29 at 19h 57m 13s.xml">
       <configuration name="Unittests in CalculadoraTest.py" configurationId="tests" />
     </history-entry>
+    <history-entry file="Unittests_for_CalculadoraTest_CalculadoraTest_test_sumarcadena - 2018.09.29 at 20h 06m 06s.xml">
+      <configuration name="Unittests for CalculadoraTest.CalculadoraTest.test_sumarcadena" configurationId="tests" />
+    </history-entry>
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -313,8 +329,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24983476" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24983476" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -325,7 +342,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3286119" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.3286119" />
-      <window_info anchor="bottom" id="Terminal" order="8" visible="true" weight="0.3286119" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.3286119" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Python Console" order="10" weight="0.3286119" />
       <window_info active="true" anchor="bottom" id="Inspection Results" order="11" visible="true" weight="0.3286119" />
@@ -359,23 +376,23 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Calculadora.py">
+    <entry file="file://$PROJECT_DIR$/CalculadoraTest.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="11" selection-start-line="3" selection-start-column="11" selection-end-line="3" selection-end-column="11" />
+        <state relative-caret-position="153">
+          <caret line="9" column="64" lean-forward="true" selection-start-line="9" selection-start-column="64" selection-end-line="9" selection-end-column="64" />
           <folding>
-            <marker date="1538269033316" expanded="true" signature="20:21" ph="..." />
-            <marker date="1538269033316" expanded="true" signature="43:48" ph="..." />
+            <element signature="e#0#29#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CalculadoraTest.py">
+    <entry file="file://$PROJECT_DIR$/Calculadora.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="64" selection-start-line="9" selection-start-column="64" selection-end-line="9" selection-end-column="64" />
+        <state relative-caret-position="68">
+          <caret line="4" column="20" lean-forward="true" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="20" />
           <folding>
-            <element signature="e#0#29#0" expanded="true" />
+            <marker date="1538270038439" expanded="true" signature="20:21" ph="..." />
+            <marker date="1538270038439" expanded="true" signature="66:71" ph="..." />
           </folding>
         </state>
       </provider>
