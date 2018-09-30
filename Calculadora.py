@@ -2,7 +2,7 @@
 
 class Calculadora:
     def sumar(cadena):
-        if(cadena==''):
+        if cadena=='':
             return 0
-        else
+        else:
             return 1
